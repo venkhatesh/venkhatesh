@@ -40,7 +40,7 @@ A passionate technologist currently delving deep into the world of Data Science.
 
 ## 🌐 Connect:
 - [GitHub](https://github.com/venkhatesh)
-- [LinkedIn](https://linkedin.com/in/venkhatesh)
+- [LinkedIn](https://www.linkedin.com/in/venkhatesh-arunachalam/)
 - 📧 vearun@iu.edu
 - 📞 +1-812-778-5848
 
