@@ -44,5 +44,5 @@ A passionate technologist currently delving deep into the world of Data Science.
 - 📧 vearun@iu.edu
 - 📞 +1-812-778-5848
 
-Thanks for stopping by! And remember, keep coding and keep laughing! 😂👩‍💻
+Thanks for stopping by!
 
