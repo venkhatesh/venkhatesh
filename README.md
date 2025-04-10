@@ -1,12 +1,14 @@
 # 👋 Hey there, I'm Venkhatesh Arunachalam! 🚀
 
-A passionate technologist currently delving deep into the world of Data Science. With a strong foundation in Computer Engineering from the University of Mumbai and ongoing studies in Data Science at Indiana University Bloomington, I've had the privilege of wearing multiple hats - from a developer to a data scientist intern.
+I’m a Machine Learning & Data Engineer passionate about building real-world AI systems that scale — and make a difference.
 
-## 🎓 Education:
-- **Masters** in Data Science (Big Data Track) at [Indiana University Bloomington](https://www.indiana.edu/)
-- **Bachelors** in Computer Engineering at [University of Mumbai](http://www.mu.ac.in/)
+Right now, I’m working at **Fidari Care** as a Software Engineer – Machine Learning, where I’m helping improve oncology care using large language models. I work on everything from building RAG pipelines with multimodal LLMs to optimizing healthcare data pipelines in Spark and Airflow. When I’m not wrangling EHR data or deploying ML infra, I’m probably tweaking workflows to make our models a little faster, a little smarter, and a lot more useful.
+
+---
 
 ## 💼 Work Experience:
+### Software Engineer - Machine Learning, Fidari Care
+- Helping doctors fight cancer — with code, not capes. 🦸‍♂️💻
 
 ### Research Software Engineer, Kelley School of Business
 - Orchestrated data flows and integrated mental health models while ensuring our system's uptime was better than my coffee breaks. ☕💼
@@ -39,7 +41,7 @@ A passionate technologist currently delving deep into the world of Data Science.
 ## 🌐 Connect:
 - [GitHub](https://github.com/venkhatesh)
 - [LinkedIn](https://www.linkedin.com/in/venkhatesh-arunachalam/)
-- 📧 [vearun@iu.edu](mailto:vearun@iu.edu)
+- 📧 [venkhatesharunachalam@gmail.com](mailto:venkhatesharunachalam@gmail.com)
 - 📞 +1-812-778-5848
 
 Thanks for stopping by!
